@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/6048/i2c-tools/trunk
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6048/i2c-tools/trunk/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4482/i2c-tools/trunk/COPYING
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6002/i2c-tools/trunk/version.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5610/i2c-tools/trunk/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/5882/i2c-tools/trunk/README
+END

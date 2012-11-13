@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2006 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Lịch</string>
+    <string name="what_label">Cái gì</string>
+    <string name="where_label">Nơi nào</string>
+    <string name="timezone_label" msgid="3988530993300431650">"Múi giờ"</string>
+    <string name="attendees_label">Khách</string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="repeats_label">Lặp lại</string>
+    <string name="no_title_label">(K.có tiêu đề)</string>
+    <plurals name="Nminutes">
+        <item quantity="one">1 phút</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> phút</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 phút</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> phút</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1 giờ</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> giờ</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="one">1 ngày</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ngày</item>
+    </plurals>
+    <string name="show_agenda_view">"Hiển thị c.trình nghị sự"</string>
+    <string name="show_day_view">"Hiển thị ngày"</string>
+    <string name="agenda_view">"C.trình nghị sự"</string>
+    <string name="day_view">"Ngày"</string>
+    <string name="week_view">"Tuần"</string>
+    <string name="month_view">"Tháng"</string>
+    <string name="event_view">"Xem sự kiện"</string>
+    <string name="event_create">"Sự kiện mới"</string>
+    <string name="event_edit">"Sửa sự kiện"</string>
+    <string name="event_delete">"Xóa sự kiện"</string>
+    <string name="goto_today">"Hôm nay"</string>
+    <string name="menu_select_calendars">"Lịch"</string>
+    <string name="menu_preferences">Cài đặt</string>
+    <string name="plus_N_more">"(cùng với <xliff:g id="more_count">%d</xliff:g> nội dung khác...)"</string>
+    <string name="calendars_title">"Lịch"</string>
+    <string name="synced_visible">đã đồng bộ, hiển thị</string>
+    <string name="synced_not_visible">đã đồng bộ, chưa hiển thị</string>
+    <string name="not_synced_not_visible">chưa đồng bộ, chưa hiển thị</string>
+    <string name="event_edit_title">"Chi tiết sự kiện"</string>
+    <string name="hint_what">"Tên sự kiện"</string>
+    <string name="hint_where">"Vị trí sự kiện"</string>
+    <string name="hint_description">"Mô tả sự kiện"</string>
+    <string name="hint_attendees">"Địa chỉ email"</string>
+    <string name="creating_event">"Đã tạo sự kiện"</string>
+    <string name="saving_event">"Đã lưu sự kiện"</string>
+    <string name="loading_calendars_title">"Đang tải lịch"</string>
+    <string name="loading_calendars_message">"Đang tải lịch..."</string>
+    <string name="alert_title">Thông báo lịch</string>
+    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> báo nhắc khác)</string>
+    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g> báo nhắc khác)</string>
+    <string name="event_info_title">"Xem sự kiện"</string>
+    <string name="event_info_title_invite">Thư mời hội nghị</string>
+    <string name="add_new_reminder">Thêm báo nhắc</string>
+    <string name="edit_event_to_label">Đến</string>
+    <string name="edit_event_from_label">Từ</string>
+    <string name="edit_event_all_day_label">Cả ngày</string>
+    <string name="edit_event_calendar_label">Lịch</string>
+    <string name="edit_event_show_extra_options">Hiển thị tùy chọn bổ sung</string>
+    <string name="edit_event_hide_extra_options">Ẩn tùy chọn bổ sung</string>
+    <string name="edit_event_show_all" msgid="6107214899021208078">"Hiển thị tất cả &gt;"</string>
+    <string name="description_label">Mô tả</string>
+    <string name="presence_label">Hiển thị tôi dạng</string>
+    <string name="privacy_label">Riêng tư</string>
+    <string name="reminders_label">Báo nhắc</string>
+    <string name="no_syncable_calendars">Không có lịch</string>
+    <string name="no_calendars_found">Bạn chưa có lịch.</string>
+    <string name="content_description_edit_event_from_date" msgid="4180292119507352306">"Ngày từ"</string>
+    <string name="content_description_edit_event_from_time" msgid="6740212065246258103">"Thời gian từ"</string>
+    <string name="content_description_edit_event_to_date" msgid="2731432809487159262">"Ngày tới"</string>
+    <string name="content_description_edit_event_to_time" msgid="5266222191518214928">"Thời gian tới"</string>
+    <string name="content_description_edit_event_reminders" msgid="62776037465727715">"Lời nhắc"</string>
+    <string name="content_description_edit_event_remove_reminder" msgid="877549621029991866">"Xóa lời nhắc"</string>
+    <string name="view_event_calendar_label">Lịch:</string>
+    <string name="view_event_organizer_label">Sổ tay:</string>
+    <string name="view_event_timezone_label">Múi giờ trong nước:</string>
+    <string name="view_event_response_label">Đang tham dự?</string>
+    <string name="agenda_today">Hôm nay, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">Đang tải…</string>
+    <string name="show_older_events">Đang hiển thị các sự kiện từ <xliff:g id="oldest_search_range">%1$s</xliff:g>. Chạm để tìm kiếm thêm.</string>
+    <string name="show_newer_events">Đang hiển thị các sự kiện cho đến <xliff:g id="newest_search_range">%1$s</xliff:g>. Chạm để tìm kiếm thêm.</string>
+    <string name="num_events">"Số sự kiện"</string>
+    <string name="edit_event_label">"Sửa sự kiện"</string>
+    <string name="delete_label">Xóa</string>
+    <string name="delete_event_label">"Xóa sự kiện"</string>
+    <string name="save_label">Hoàn tất</string>
+    <string name="discard_label">Phục hồi</string>
+    <string name="import_label">"Nhập"</string>
+    <string name="snooze_all_label">"Báo lại tất cả"</string>
+    <string name="dismiss_all_label">"Hủy tất cả"</string>
+    <string name="does_not_repeat">Sự kiện cũ</string>
+    <string name="daily">Hàng ngày</string>
+    <string name="every_weekday">"Mọi ngày thường trong tuần (Thứ 2-6)"</string>
+    <string name="weekly">"Hàng tuần (mỗi <xliff:g id="days_of_week">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Hàng tháng (mỗi <xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>)"</string>
+    <string name="monthly">Hàng tháng</string>
+    <string name="yearly_plain">Hàng năm</string>
+    <string name="monthly_on_day">"Hàng tháng (vào ngày <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="yearly">"Hàng năm (vào <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="custom">"Tùy chỉnh... (không thể tùy chỉnh trên điện thoại)"</string>
+    <string name="modify_event">Chỉ đổi sự kiện này.</string>
+    <string name="modify_all">Đổi mọi sự kiện theo chuỗi.</string>
+    <string name="modify_all_following">Đổi sự kiện này và mọi s.kiện trong t.lai.</string>
+    <string name="delete_this_event_title">Sự kiện này sẽ bị xóa.</string>
+    <string name="delete_title">Xóa</string>
+    <string name="change_response_title">Đổi câu trả lời</string>
+    <string name="preferences_title">Cài đặt</string>
+    <string name="preferences_general_title">Cài đặt màn hình lịch</string>
+    <string name="preferences_alerts_title">Cài đặt báo nhắc</string>
+    <string name="preferences_hide_declined_title">Ẩn các sự kiện bị tự chối</string>
+    <string name="preferences_alerts_type_title">Cài cảnh báo &amp; thông báo</string>
+    <string name="preferences_alerts_type_dialog">Cảnh báo &amp; thông báo</string>
+    <string name="preferences_alerts_vibrateWhen_title">Báo rung</string>
+    <string name="preferences_alerts_vibrateWhen_summary">Cũng báo rung cho các báo nhắc</string>
+    <string name="preferences_alerts_ringtone_title">Chọn nhạc chuông</string>
+    <string name="preferences_default_reminder_title">Giờ báo nhắc mặc định</string>
+    <string name="preferences_default_reminder_dialog">Giờ báo nhắc mặc định</string>
+    <string name="preferences_default_reminder_default">10</string>
+    <string name="preferences_use_home_tz_title" msgid="5597546849968598210">"Dùng múi giờ chính"</string>
+    <string name="preferences_use_home_tz_descrip" msgid="4835375381297413746">"Hiện lịch và t.gian sự kiện trong múi giờ chính khi du lịch"</string>
+    <string name="preferences_home_tz_title" msgid="6680000444088818578">"Múi giờ chính"</string>
+    <string name="preferences_about_title">Về</string>
+    <string name="preferences_build_version">Th.lập phiên bản</string>
+    <string name="delete_event">Chỉ sự kiện này</string>
+    <string name="delete_all_following">S.kiện này &amp; các s.kiện t.lai</string>
+    <string name="delete_all">Mọi sự kiện</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Luôn luôn</item>
+        <item>Chỉ khi im lặng</item>
+        <item>K.bao giờ</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">Báo rung</string>
+    <string name="valid_date_range">"Ngày hợp lệ là tháng giêng 1970 đến Tháng 12 năm 2037"</string>
+    <string name="shareEvent">Chia sẻ</string>
+</resources>

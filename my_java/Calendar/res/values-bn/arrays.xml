@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item msgid="9134196715565887256">১ মিনিট</item>
+        <item msgid="7350720278790900276">৫ মিনিট</item>
+        <item msgid="559329025736829220">১০ মিনিট</item>
+        <item msgid="4523534383318084162">১৫ মিনিট</item>
+        <item msgid="7153990736543668084">২০ মিনিট</item>
+        <item msgid="2030352540011653596">২৫ মিনিট</item>
+        <item msgid="7307245847296317340">৩০ মিনিট</item>
+        <item msgid="5174730509775969611">৪৫ মিনিট</item>
+        <item msgid="1920425054049263702">১ ঘণ্টা</item>
+        <item msgid="6972139375792068825">২ ঘণ্টা</item>
+        <item msgid="5643568168685093982">৩ ঘণ্টা</item>
+        <item msgid="2179302053572039553">১২ ঘণ্টা</item>
+        <item msgid="314399712609472931">২৪ ঘণ্টা</item>
+        <item msgid="6908283876728494719">২  দিন</item>
+        <item msgid="3390146235648970198">১ সপ্তাহ</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item msgid="6833649526258274889">"মার্শাল আইল্যান্ড"</item>
+        <item msgid="7176569939440505575">" মিডওয়ে আইল্যান্ড"</item>
+        <item msgid="5000628410717488070">"হাওয়াই"</item>
+        <item msgid="3809977082338992040">"আলাস্কা"</item>
+        <item msgid="1206600898319778734">"প্যাসিফিক টাইম"</item>
+        <item msgid="4251553449779733536">"টিজুয়ানা"</item>
+        <item msgid="4796372144693551811">"এরিজোনা"</item>
+        <item msgid="4589419122570218444">"চিহুয়াহুয়া"</item>
+        <item msgid="1653398220457872326">"মাউনটেন টাইম"</item>
+        <item msgid="229005026661478023">"মধ্য আমেরিকা"</item>
+        <item msgid="1545268116831476742">"সেন্ট্রাল টাইম"</item>
+        <item msgid="9135129204936732090">"ম্যাক্সিকো সিটি"</item>
+        <item msgid="3703110560723049255">"সামকাচিওয়ান"</item>
+        <item msgid="5458958644945369505">"বগোটা"</item>
+        <item msgid="355450740949670294">"ইস্টার্ন টাইম"</item>
+        <item msgid="5786717434693228701">"ভেনিজুয়েলা"</item>
+        <item msgid="165048018515834952">"আটলান্টিক টাইম"</item>
+        <item msgid="5398045998666341917">"মানস"</item>
+        <item msgid="8167627904199889197">"সান্তিয়াগো"</item>
+        <item msgid="2793058279461039833">"নিউফাউন্ডল্যান্ড"</item>
+        <item msgid="5247265991408608312">"ব্রাসিলিয়া"</item>
+        <item msgid="7862856378699038344">"বুয়েন্স আয়ারস"</item>
+        <item msgid="7307349572838946177">"গ্রিনল্যান্ড"</item>
+        <item msgid="2287491943472924232">"মন্টেভিডিও"</item>
+        <item msgid="6337125611768317903">"মধ্য আটলান্টিক"</item>
+        <item msgid="1083966762112959704">"আজোরেস"</item>
+        <item msgid="3208435599095023369">"কেপ ভার্দে আইল্যান্ড"</item>
+        <item msgid="8380333624463354109">"কাসাব্লাংকা"</item>
+        <item msgid="8737442113188999866">"লন্ডন,ডাবলিন"</item>
+        <item msgid="72424340270348400">"আমসটারডাম, বার্লিন"</item>
+        <item msgid="3665952257850630547">"বেলগ্রেড"</item>
+        <item msgid="3284290759549286849">"ব্রাসেলস"</item>
+        <item msgid="3112943938015033049">"সারাজেভো"</item>
+        <item msgid="2184425710639965762">"প্যারিস"</item>
+        <item msgid="5997630882187580225">"উইন্ডহক"</item>
+        <item msgid="3828800493609994208">"পশ্চিম আফ্রিকার সময়"</item>
+        <item msgid="7527935722014187591">"আম্মান, জর্ডান"</item>
+        <item msgid="672509109295227133">"এথেন্স, ইস্তাম্বুল"</item>
+        <item msgid="1835470340349221646">"বৈরুত, লেবানন"</item>
+        <item msgid="9006223109403693650">"কায়রো"</item>
+        <item msgid="2877875673636361825">"হেলসিংকি"</item>
+        <item msgid="4528124308590807049">"জেরুজালেম"</item>
+        <item msgid="7823856457885290195">"মিন্সক"</item>
+        <item msgid="8650995074282357197">"হারারে"</item>
+        <item msgid="209523815326871285">"বাগদাদ"</item>
+        <item msgid="8077211460729251609">"মস্কো"</item>
+        <item msgid="6103383184232804522">"কুয়েত"</item>
+        <item msgid="8581935265080466099">"নাইরোবি"</item>
+        <item msgid="1531618843539764728">"তেহরান"</item>
+        <item msgid="141548505188106312">"বাকু"</item>
+        <item msgid="5974315340250149692">"টিবিলিসি"</item>
+        <item msgid="3344801680659888795">"ইয়েরেভান"</item>
+        <item msgid="2537944335416132075">"দুবাই"</item>
+        <item msgid="5630432498109110949">"কাবুল"</item>
+        <item msgid="2274762525650993846">"ইসলামাবাদ, করাচি"</item>
+        <item msgid="272153171103339242">"উরালস্ক"</item>
+        <item msgid="4757644551253886090">"ইয়েকাটেরিনবার্গ"</item>
+        <item msgid="3036512479614493957">"কলকাতা"</item>
+        <item msgid="4190271241277312277">"শ্রীলংকা"</item>
+        <item msgid="4489139826358657866">"কাঠমান্ডু"</item>
+        <item msgid="1195461607876034232">"আসতানা"</item>
+        <item msgid="8777509327730950228">"রেঙ্গুন"</item>
+        <item msgid="3838899720161825998">"রান্সনোইয়ার্ক"</item>
+        <item msgid="6495532062164690437">"ব্যাংকক"</item>
+        <item msgid="4910549870048384487">"বেইজিং"</item>
+        <item msgid="7174954011332328153">"হংকং"</item>
+        <item msgid="415034182139280334">"ইরকুটস্ক"</item>
+        <item msgid="3407263784503834649">"কুয়ালালামপুর"</item>
+        <item msgid="6547945295249807755">"পার্থ"</item>
+        <item msgid="4571776847411430193">"তাইপে"</item>
+        <item msgid="3043691515163887690">"সিউল"</item>
+        <item msgid="6369124969606372122">"টোকিও, ওসাকা"</item>
+        <item msgid="8317842783685169193">"ইয়াকুটস্ক"</item>
+        <item msgid="6993206457323990990">"এডেলেইড"</item>
+        <item msgid="2431970257749452312">"ডারউইন"</item>
+        <item msgid="2709489188606506801">"ব্রিজবেন"</item>
+        <item msgid="6832511138206913044">" হোবার্ট"</item>
+        <item msgid="6933429790996727761">"সিডনি, ক্যানবেরা"</item>
+        <item msgid="4546625974877459074">"ভ্লাদিভসটক"</item>
+        <item msgid="7421491250467489614">"গুয়াম"</item>
+        <item msgid="3450367738093440984">"ম্যাগাডান"</item>
+        <item msgid="5046540868552082971">"অকল্যান্ড"</item>
+        <item msgid="481903191189494072">"ফিজি"</item>
+        <item msgid="1926932394586102998">"টংগা"</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item msgid="7495163916242649023">কোনটি নয়</item>
+        <item msgid="3377199512833209480">১ মিনিট</item>
+        <item msgid="5023205715881387516">৫ মিনিট</item>
+        <item msgid="7720870540593319107">১০ মিনিট</item>
+        <item msgid="1653841700859180907">১৫ মিনিট</item>
+        <item msgid="3741629746313107482">২০ মিনিট</item>
+        <item msgid="5357458446224446398">২৫ মিনিট</item>
+        <item msgid="403143749684280703">৩০ মিনিট</item>
+        <item msgid="5611574008997362948">৪৫ মিনিট</item>
+        <item msgid="30462793717552">১ ঘণ্টা</item>
+        <item msgid="119808229352802480">২ ঘণ্টা</item>
+        <item msgid="7456742278252094745">৩ ঘণ্টা</item>
+        <item msgid="5263928189935026559">১২ ঘণ্টা</item>
+        <item msgid="6451763179435252852">২৪ ঘণ্টা</item>
+        <item msgid="966666856467721784">২  দিন</item>
+        <item msgid="5840973497558794742">১ সপ্তাহ</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item msgid="2724242028978664229">সজাগ করুন</item>
+        <item msgid="8723674378160518790">স্ট্যাটাস বার নোটিস</item>
+        <item msgid="8433736231022186661">বন্ধ</item>
+    </string-array>
+    <string-array name="availability">
+        <item msgid="454869065893453189">ব্যস্ত</item>
+        <item msgid="6228387173725732140">পাওয়া যাচ্ছে</item>
+    </string-array>
+    <string-array name="visibility">
+        <item msgid="3035788428581513163">ডিফল্ট</item>
+        <item msgid="5200216103966973369">ব্যক্তিগত</item>
+        <item msgid="9182342638433672664">প্রকাশ্য</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item msgid="2693927956303125332">প্রথম</item>
+        <item msgid="5631923029483854900">দ্বিতীয়</item>
+        <item msgid="148935502975250973">তৃতীয়</item>
+        <item msgid="5124200797326669172">চতুর্থ</item>
+        <item msgid="7564374178324652137">সর্বশেষ</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item msgid="3654955385120106241">(কোন উত্তর নেই)</item>
+        <item msgid="3724434080904437698">হ্যা</item>
+        <item msgid="8854145743148992583">হয়ত</item>
+        <item msgid="6174292185978948873">না</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item msgid="5967437218994333578">হ্যা</item>
+        <item msgid="1254269034445160199">হয়ত</item>
+        <item msgid="1099407454885268744">না</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item msgid="4208432367651646938">কেবল এই ঘটনাটি</item>
+        <item msgid="8626755531271570950">এটি এবং ভবিষ্যত ঘটনাবলি</item>
+        <item msgid="7833229563617435430">সব ঘটনা</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item msgid="1341910309321756150">এটি এবং ভবিষ্যত ঘটনাবলি</item>
+        <item msgid="6315440193748139854">সব ঘটনা</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item msgid="2012815396992847028">কেবল এই বার</item>
+        <item msgid="140670561403965380">এই সিরিজের সব ঘটনার ক্ষেত্রে</item>
+    </string-array>
+</resources>
+

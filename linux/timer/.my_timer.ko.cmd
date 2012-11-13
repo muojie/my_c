@@ -1,0 +1,1 @@
+cmd_/home/muojie/src/my_c/timer/my_timer.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.32-38-generic/scripts/module-common.lds --build-id -o /home/muojie/src/my_c/timer/my_timer.ko /home/muojie/src/my_c/timer/my_timer.o /home/muojie/src/my_c/timer/my_timer.mod.o

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 32
+i2cdetect
+i2cdump
+i2cset
+i2cget
+
+END

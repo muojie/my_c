@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- Copyright (C) 2006 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="no_title_label">(कोई शीर्षक नहीं)</string>
+
+
+    <plurals name="Nminutes">
+        <item quantity="one">1 मिनट</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> मिनट</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one">1 मिनट</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> मिनट</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one">1  घंटे</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> घंटे</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="one">1  दिन</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> दिन</item>
+    </plurals>
+
+    <string name="show_agenda_view">एजेंडा दिखाएं</string>
+
+    <string name="show_day_view">दिन दिखाएं</string>
+
+    <string name="agenda_view">एजेंडा</string>
+
+    <string name="day_view">दिन</string>
+
+    <string name="week_view">सप्‍ताह</string>
+
+    <string name="month_view">महीना</string>
+
+    <string name="event_view">इवेंट देखें</string>
+
+    <string name="event_create">नया इवेंट</string>
+
+    <string name="event_edit">इवेंट को संपादित करें</string>
+
+    <string name="event_delete">इवेंट डिलीट करें</string>
+
+    <string name="goto_today">आज</string>
+
+    <string name="menu_select_calendars">कैलेंडर</string>
+
+    <string name="menu_preferences">सेटिंग</string>
+
+    <string name="plus_N_more">(\u2026 के साथ अधिक <xliff:g id="more_count">%d</xliff:g>)</string>
+
+
+    <string name="calendars_title">कैलेंडर</string>
+
+    <string name="event_edit_title">इवेंट विवरण</string>
+
+    <string name="hint_what">इवेंट नाम</string>
+
+    <string name="hint_where">इवेंट स्‍थान</string>
+
+    <string name="hint_description">इवेंट वर्णन</string>
+
+    <string name="hint_attendees">ईमेल पते</string>
+
+    <string name="creating_event">इवेंट निर्मित हुआ</string>
+
+    <string name="saving_event">इवेंट सहेजा गया</string>
+
+    <string name="loading_calendars_title">कैलेंडर लोड हो रहे हैं</string>
+
+    <string name="loading_calendars_message">कैलेंडर लोड हो रहे हैं\u2026</string>
+
+    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> अधिक रिमाइंडर)</string>
+
+    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g> अधिक रिमाइंडर)</string>
+
+    <string name="edit_event_all_day_label">संपूर्ण दिन</string>
+
+    <string name="num_events">इवेंट की संख्‍या</string>
+
+    <string name="edit_event_label">इवेंट को संपादित करें</string>
+
+    <string name="delete_label">डिलीट करें</string>
+
+    <string name="delete_event_label">इवेंट डिलीट करें</string>
+
+    <string name="save_label">Done</string>
+
+    <string name="import_label">आयात</string>
+
+
+    <string name="snooze_all_label">स्‍नूज ऑल</string>
+
+    <string name="every_weekday">प्रत्‍येक सप्‍ताह (सोम~शुक्र)</string>
+
+    <string name="weekly">साप्‍ताहिक (प्रत्‍येक <xliff:g id="days_of_week">%s</xliff:g>)</string>
+
+    <string name="monthly_on_day_count">मासिक (प्रत्‍येक <xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>)</string>
+
+    <string name="monthly_on_day">मासिक (<xliff:g id="day_of_month">%s</xliff:g> दिन में)</string>
+
+    <string name="yearly">वार्षिक (<xliff:g id="dates">%s</xliff:g> पर)</string>
+
+    <string name="custom">कस्‍टम...(फोन पर अनुकूलित नहीं कर सकते)</string>
+
+    <string name="preferences_alerts_type_dialog">अलर्ट व सूचना</string>
+
+    <string name="preferences_alerts_vibrateWhen_summary">रिमाइंडर के लिए भी वाइब्रेट करें</string>
+
+    <string name="view_event_response_label">क्‍या आप इवेंट में उपस्थित हो रहे हैं?</string>
+
+    <string name="preferences_build_version">निर्मित संस्‍करण</string>
+
+    <string name="alert_title">कैलेंडर सूचना </string>
+
+    <string name="preferences_general_title">कैलेंडर व्‍यू सेटिंग</string>
+
+    <string name="view_event_calendar_label">कैलेंडर:</string>
+
+    <string name="modify_all">सीरीज के सभी इवेंट बदलें।</string>
+
+    <string name="modify_event">केवल इस इवेंट को बदलें।</string>
+
+    <string name="change_response_title">प्रतिक्रिया बदलें</string>
+
+    <string name="modify_all_following">इस व भविष्‍य के सभी इवेंट बदलें</string>
+
+    <string name="preferences_default_reminder_title">डिफाल्‍ट रिमाइंडर समय</string>
+
+    <string name="preferences_default_reminder_dialog">डिफाल्‍ट रिमाइंडर समय</string>
+
+    <string name="preferences_use_home_tz_descrip">यात्रा करते समय अपने होम टाइम जोन में कैलेंडर व इवेंट समय डिस्‍प्‍ले करता है</string>
+
+    <string name="content_description_edit_event_from_date">तिथि से</string>
+
+    <string name="content_description_edit_event_from_time">समय से</string>
+
+    <string name="attendees_label">अतिथि </string>
+
+    <string name="preferences_hide_declined_title">अस्‍वीकृत इवेंट छिपाएं</string>
+
+    <string name="edit_event_hide_extra_options">अतिरिक्‍त विकल्‍प छिपाएं </string>
+
+    <string name="preferences_home_tz_title">होम टाइम जोन</string>
+
+    <string name="loading">लोड हो रहा है...</string>
+
+    <string name="view_event_timezone_label">स्‍थानीय टाइम जोन:</string>
+
+    <string name="event_info_title_invite">बैठक के आमंत्रण</string>
+
+    <string name="no_syncable_calendars">कोई कैलेंडर नहीं</string>
+    <string name="not_synced_not_visible">सिंक नहीं है, प्रत्‍यक्ष नहीं है</string>
+    <string name="does_not_repeat">एक बार का इवेंट</string>
+    <string name="view_event_organizer_label">संगठनकर्ता: </string>
+    <string name="preferences_alerts_title">रिमाइंडर से</string>
+    <string name="reminders_label">रिमाइंडर</string>
+    <string name="content_description_edit_event_reminders">रिमाइंडर</string>
+    <string name="content_description_edit_event_remove_reminder">रिमाइंडर हटाएं</string>
+    <string name="repeats_label">दोहराव </string>
+    <string name="discard_label">वापिस लाएं </string>
+    <string name="preferences_alerts_ringtone_title">रिंगटोन चुनें</string>
+    <string name="preferences_alerts_type_title">अलार्म व सूचना सेट करें</string>
+    <string name="edit_event_show_all">सब कुछ दिखाएं </string>
+    <string name="edit_event_show_extra_options">अतिरिक्‍त विकल्‍प दिखाएं </string>
+    <string name="presence_label">मुझे इस तरह दिखाएं </string>
+    <string name="show_older_events"><xliff:g id="oldest_search_range">%1$s</xliff:g> के बाद से इवेंट दिखा रहा है। अधिक देखने के लिए दबाएं।</string>
+    <string name="show_newer_events">होने तक इवेंट दिखाता रहा। अधिक देखने के लिए <xliff:g id="newest_search_range">%1$s</xliff:g> दबाएं।</string>
+    <string name="synced_not_visible">सिंक हुआ, प्रत्‍यक्ष नहीं है</string>
+    <string name="synced_visible">सिंक हुआ, प्रत्‍यक्ष है</string>
+    <string name="delete_this_event_title">इस इवेंट को डिलीट कर दिया एगा। </string>
+    <string name="timezone_label">टाइम जोन</string>
+    <string name="content_description_edit_event_to_date">इस तिथि को</string>
+    <string name="content_description_edit_event_to_time">इस समय पर</string>
+    <string name="agenda_today">आज, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="preferences_use_home_tz_title">घरेलू टाइम जोन प्रयोग करें</string>
+    <string name="preferences_alerts_vibrateWhen_title">वाइब्रेट करें</string>
+    <string name="prefDialogTitle_vibrateWhen">वाइब्रेट करें</string>
+    <string name="event_info_title">इवेंट देखें</string>
+    <string name="what_label">क्‍या </string>
+    <string name="where_label">जहां</string>
+    <string name="no_calendars_found">आपके पास कोई कैलेंडर नहीं है।</string>
+    <string name="app_label">कैलेंडर</string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="add_new_reminder">रिमाइंडर जोड़ें</string>
+    <string name="edit_event_to_label">सेवा में</string>
+    <string name="edit_event_from_label">से</string>
+    <string name="edit_event_calendar_label">कैलेंडर</string>
+    <string name="description_label">विवरण</string>
+    <string name="privacy_label">निजता</string>
+    <string name="dismiss_all_label">"सभी को खारिज करें"</string>
+    <string name="daily">दैनिक</string>
+    <string name="monthly">मासिक</string>
+    <string name="yearly_plain">वार्षिक</string>
+    <string name="delete_title">हटाऐं</string>
+    <string name="preferences_title">"सेटिंग"</string>
+    <string name="preferences_alerts_type_default">1</string>
+    <string name="preferences_default_reminder_default">10</string>
+    <string name="preferences_home_tz_default">America/Los_Angeles</string>
+    <string name="preferences_about_title">के बारे में</string>
+    <string name="delete_event">केवल यह इवेंट</string>
+    <string name="delete_all_following">यह व भविष्‍य का इवेंट</string>
+    <string name="delete_all">सभी इवेंट</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>हमेशा</item>
+        <item>केवल साइलेंट होने पर</item>
+        <item>कभी नहीं</item>
+    </string-array>
+    <string name="valid_date_range">"मान्‍य तिथि जनवरी 1970 से दिसंबर 2037 तक है"</string>
+    <string name="shareEvent">साझा करें</string>
+</resources>

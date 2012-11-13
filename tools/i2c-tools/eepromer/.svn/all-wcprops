@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6048/i2c-tools/trunk/eepromer
+END
+eepromer.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6048/i2c-tools/trunk/eepromer/eepromer.c
+END
+eeprog.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5122/i2c-tools/trunk/eepromer/eeprog.c
+END
+README.eeprom
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4496/i2c-tools/trunk/eepromer/README.eeprom
+END
+eeprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6048/i2c-tools/trunk/eepromer/eeprom.c
+END
+24cXX.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6048/i2c-tools/trunk/eepromer/24cXX.c
+END
+README.eepromer
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4494/i2c-tools/trunk/eepromer/README.eepromer
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4495/i2c-tools/trunk/eepromer/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4494/i2c-tools/trunk/eepromer/README
+END
+README.eeprog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4494/i2c-tools/trunk/eepromer/README.eeprog
+END
+24cXX.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6048/i2c-tools/trunk/eepromer/24cXX.h
+END

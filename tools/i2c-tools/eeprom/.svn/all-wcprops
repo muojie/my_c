@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6043/i2c-tools/trunk/eeprom
+END
+decode-vaio
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5561/i2c-tools/trunk/eeprom/decode-vaio
+END
+ddcmon
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5561/i2c-tools/trunk/eeprom/ddcmon
+END
+decode-edid
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5561/i2c-tools/trunk/eeprom/decode-edid
+END
+decode-dimms
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6043/i2c-tools/trunk/eeprom/decode-dimms
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5595/i2c-tools/trunk/eeprom/Module.mk
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5595/i2c-tools/trunk/eeprom/README
+END

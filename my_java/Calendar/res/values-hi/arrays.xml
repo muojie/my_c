@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources>
+    <string-array name="reminder_minutes_labels">
+        <item>1 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>15 मिनट</item>
+        <item>20 मिनट</item>
+        <item>25 मिनट</item>
+        <item>30 मिनट</item>
+        <item>45 मिनट</item>
+        <item>1 घंटे</item>
+        <item>2 घंटे</item>
+        <item>3 घंटे</item>
+        <item>12 घंटे</item>
+        <item>24 घंटे</item>
+        <item>2 दिन</item>
+        <item>1 week</item>
+    </string-array>
+
+    <string-array name="timezone_labels">
+        <item>मार्शल आईलैंड</item>
+        <item>मिडवे आईलैंड</item>
+        <item>हवाई</item>
+        <item>अलास्‍का</item>
+        <item>पैसीफिक टाइम</item>
+        <item>तिजुआना</item>
+        <item>एरिजोना</item>
+        <item>चिहुआहुआ</item>
+        <item>माउंटेन टाइम</item>
+        <item>मध्‍य अमेरिका</item>
+        <item>केंद्रीय समय</item>
+        <item>मैक्सिको सिटी</item>
+        <item>सेसकेचवान</item>
+        <item>बोगोता</item>
+        <item>पूर्वी समय</item>
+        <item>वेनेजुएला</item>
+        <item>अटलांटिक समय</item>
+        <item>मानाव्‍स</item>
+        <item>सेंतियागो</item>
+        <item>न्‍यूफाडलैंड</item>
+        <item>ब्राजीलिया</item>
+        <item>ब्‍यूनो आयर्स</item>
+        <item>ग्रीनलैंड</item>
+        <item>मोंटेवीडियो</item>
+        <item>मध्‍य-अटलांटिक</item>
+        <item>अजोरेस</item>
+        <item>केप वर्दे द्वीप</item>
+        <item>कासाब्‍लांका</item>
+        <item>लंदन, डबलिन</item>
+        <item>एम्‍स्‍टर्डम, बर्लिन</item>
+        <item>बेलग्राद</item>
+        <item>ब्रसेल्‍स</item>
+        <item>साराजेवो</item>
+        <item>पेरिस</item>
+        <item>विंडूक</item>
+        <item>प. अफ्रीका समय</item>
+        <item>अम्‍मान, जोर्डन</item>
+        <item>एथेंस, इस्‍तांबुल</item>
+        <item>बेरुत, लेबनान</item>
+        <item>काहिरा</item>
+        <item>हेलसिंकी</item>
+        <item>येरूशलम</item>
+        <item>मिन्‍स्‍क</item>
+        <item>हरारे</item>
+        <item>बगदाद</item>
+        <item>मास्‍को</item>
+        <item>कुवैत</item>
+        <item>नैरोबी</item>
+        <item>तेहरान</item>
+        <item>बाकू</item>
+        <item>तिबीलिसी</item>
+        <item>येरेवान</item>
+        <item>दुबई</item>
+        <item>काबुल</item>
+        <item>इस्‍लामाबाद, कराची</item>
+        <item>यूरालस्‍क</item>
+        <item>येकातेरिनबर्ग</item>
+        <item>कोलकाता</item>
+        <item>श्रीलंका</item>
+        <item>काठमाण्‍ठू</item>
+        <item>अस्‍ताना</item>
+        <item>रंगून</item>
+        <item>क्रास्‍नोयार्स्‍क</item>
+        <item>बैंकॉक</item>
+        <item>बीजिंग</item>
+        <item>हांगकांग</item>
+        <item>इर्कूत्‍स्‍क</item>
+        <item>कुआलालम्‍पूर</item>
+        <item>पर्थ</item>
+        <item>ताईपेई</item>
+        <item>सिओल</item>
+        <item>टोक्‍यो, ओसाका</item>
+        <item>याकूत्‍स्‍क</item>
+        <item>एडेलेड</item>
+        <item>डार्विन</item>
+        <item>ब्रिसबेन</item>
+        <item>होबार्ट</item>
+        <item>सिडनी, कैनबरा</item>
+        <item>व्‍लादिवोस्‍तोक</item>
+        <item>ग्‍वाम</item>
+        <item>मगादन</item>
+        <item>ऑकलैंड</item>
+        <item>फिजी</item>
+        <item>टोंगा</item>
+    </string-array>
+
+
+    <string-array name="preferences_default_reminder_labels">
+        <item>None</item>
+        <item>1 मिनट</item>
+        <item>5 मिनट</item>
+        <item>10 मिनट</item>
+        <item>15 मिनट</item>
+        <item>20 मिनट</item>
+        <item>25 मिनट</item>
+        <item>30 मिनट</item>
+        <item>45 मिनट</item>
+        <item>1 घंटे</item>
+        <item>2 घंटे</item>
+        <item>3 घंटे</item>
+        <item>12 घंटे</item>
+        <item>24 घंटे</item>
+        <item>2 दिन</item>
+        <item>1 week</item>
+    </string-array>
+
+    
+    <string-array name="delete_repeating_labels">
+        <item>केवल यह इवेंट</item>
+        <item>यह व भविष्‍य का इवेंट</item>
+        <item>सभी इवेंट</item>
+    </string-array>
+        
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>यह व भविष्‍य का इवेंट</item>
+        <item>सभी इवेंट</item>
+    </string-array>
+    
+    <string-array name="change_response_labels">
+        <item>केवल इस बार</item>
+        <item>सीरीज के सभी इवेंट</item>
+    </string-array>
+    
+    
+    <string-array name="preferences_alert_type_labels">
+        <item>अलर्ट</item>
+        <item>स्‍टेटस बार सूचना</item>
+        <item>ऑफ</item>
+    </string-array>
+    <string-array name="availability">
+        <item>व्‍यस्‍त </item>
+        <item>उपलब्‍ध</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>डिफॉल्‍ट</item>
+        <item>निजी</item>
+        <item>सार्वजनिक</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>पहला</item>
+        <item>दूसरा</item>
+        <item>तीसरा</item>
+        <item>चौथा</item>
+        <item>अंतिम</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(कोई प्रतिक्रिया नहीं)</item>
+        <item>हां</item>
+        <item>शायद </item>
+        <item>नहीं</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>हां</item>
+        <item>शायद </item>
+        <item>नहीं</item>
+    </string-array>
+</resources>

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6048/i2c-tools/trunk/tools
+END
+i2cset.8
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5911/i2c-tools/trunk/tools/i2cset.8
+END
+i2cbusses.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6048/i2c-tools/trunk/tools/i2cbusses.c
+END
+i2cget.8
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5236/i2c-tools/trunk/tools/i2cget.8
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5596/i2c-tools/trunk/tools/util.h
+END
+i2cdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6048/i2c-tools/trunk/tools/i2cdump.c
+END
+i2cdetect.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6048/i2c-tools/trunk/tools/i2cdetect.c
+END
+i2cbusses.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5885/i2c-tools/trunk/tools/i2cbusses.h
+END
+i2cdump.8
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5236/i2c-tools/trunk/tools/i2cdump.8
+END
+i2cset.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6048/i2c-tools/trunk/tools/i2cset.c
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6048/i2c-tools/trunk/tools/Module.mk
+END
+i2cdetect.8
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5195/i2c-tools/trunk/tools/i2cdetect.8
+END
+i2cget.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6048/i2c-tools/trunk/tools/i2cget.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5596/i2c-tools/trunk/tools/util.c
+END

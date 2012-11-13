@@ -1,0 +1,1 @@
+cmd_/home/muojie/src/my_c/device/dev_fs/my_dev_reg.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-2.6.32-38-generic/scripts/module-common.lds --build-id -o /home/muojie/src/my_c/device/dev_fs/my_dev_reg.ko /home/muojie/src/my_c/device/dev_fs/my_dev_reg.o /home/muojie/src/my_c/device/dev_fs/my_dev_reg.mod.o
