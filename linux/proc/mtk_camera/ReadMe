@@ -1,0 +1,16 @@
+
+这个例子主要是看怎么生成的proc系统下的调试接口，也有创建dev文件节点的例子，可以做参考。
+
+一、该代码在生成/proc/driver/camsensor节点，可以echo命令到该节点，往I2C设备读写寄存器
+
+比如：
+
+1, 输入 echo "addr value" > /proc/driver/camsensor （写寄存器） 
+   e.g：echo "3030 10" > /proc/driver/camsensor 相当于 i2cwrite(0x3030,0x10) 
+
+2, 输入 echo "addr" > /proc/driver/camsensor （读寄存器） 
+   e.g：echo "3030 10" > /proc/driver/camsensor 相当于 i2cRead(0x3030) 
+
+二、该代码生成/dev/kd_camera_hw节点,提供上层使用，主要是使用该节点的ioctl函数，进而调用实际的控制sensor的函数
+
+可以借鉴该代码生成dev节点的步骤，怎么样注册字符设备，申请cdev，然后注册fops，添加设备号，生成节点等。
